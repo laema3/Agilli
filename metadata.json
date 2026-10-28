@@ -1,0 +1,6 @@
+{
+  "name": "Agille - Relatórios de Vendas por Planos",
+  "description": "Organizador e gerador de relatórios de fechamento de vendas Agille separados por planos com subtotais, consolidador geral e impressão em modo paisagem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
